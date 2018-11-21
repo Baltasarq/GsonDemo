@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="build/" main="Ppal" manifest="" root="" work="">
+    <createjar file="books.jar" flags="14"/>
+    <source>
+      <file active="true" name="src/BooksPersistence.java" package="" timestamp="21-Nov-2018 17:09:01">
+        <select from="1451" to="1451"/>
+        <scroll column="170" row="0"/>
+      </file>
+      <file name="src/Book.java" package="" timestamp="21-Nov-2018 17:04:02">
+        <select from="1451" to="1451"/>
+        <scroll column="170" row="0"/>
+      </file>
+      <file name="src/Ppal.java" package="" timestamp="21-Nov-2018 17:04:52">
+        <select from="1451" to="1451"/>
+        <scroll column="170" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="lib/gson-2.8.5.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

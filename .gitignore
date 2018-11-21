@@ -1,3 +1,7 @@
+# Bak files
+*.bak
+*~
+
 # Compiled class file
 *.class
 
