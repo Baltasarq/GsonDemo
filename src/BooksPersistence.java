@@ -28,6 +28,9 @@ public class BooksPersistence {
             else
             if ( label.equals( ETQ_TITLE ) ) {
                 title = reader.nextString();
+            } else {
+                // Unknown name found
+                reader.skipValue();
             }
         }
         
