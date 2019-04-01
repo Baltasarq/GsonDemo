@@ -11,9 +11,6 @@ import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
 
 public class Ppal {
-    public static String ETQ_AUTHOR = "author";
-    public static String ETQ_TITLE = "title";
-    
     /** Reads all books from a json file.
       * @param fn The name of the json file.
       */
